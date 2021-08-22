@@ -1,0 +1,1 @@
+exercício de java script no curso em vídeo do professor Guanabara
